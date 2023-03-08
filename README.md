@@ -1,4 +1,4 @@
-# unsupervised domain adaptation using optimal transport [Paper](https://arxiv.org/abs/2303.02241v1)
+# unsupervised domain adaptation using optimal transport ([Paper])(https://arxiv.org/abs/2303.02241v1)
 <img src="figs/fig1.png" width="800px"/>
 
 This repository contains the code for Domain Adaptation using Optimal Transport for Invariant Learning on Histopathology Datasets. Licensing details can be found in the license.txt file.
